@@ -43,7 +43,7 @@ array criado.
 
 console.log(array2[0]);
 console.log(array2[1]);
-console.log(array2[2]);book
+console.log(array2[2]);
 console.log(array2[3]);
 console.log(array2[4]);
 
