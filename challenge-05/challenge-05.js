@@ -3,7 +3,7 @@ Crie uma variável qualquer, que receba um array com alguns valores aleatórios
 - ao menos 5 - (fica por sua conta os valores do array).
 */
 
-let array = [1, 'Vinicius', 0, true, NaN];
+let meuArray = [1, 'Vinicius', 0, true, NaN];
 
 /*
 Crie uma função que receba um array como parâmetro, e retorne esse array.
@@ -18,7 +18,7 @@ function minhaFuncao (array) {
 Imprima o segundo índice do array retornado pela função criada acima.
 */
 
-console.log(minhaFuncao(array)[1]);
+console.log(minhaFuncao(meuArray)[1]);
 
 /*
 Crie uma função que receba dois parâmetros: o primeiro, um array de valores; e o
@@ -43,7 +43,7 @@ array criado.
 
 console.log(array2[0]);
 console.log(array2[1]);
-console.log(array2[2]);
+console.log(array2[2]);book
 console.log(array2[3]);
 console.log(array2[4]);
 
